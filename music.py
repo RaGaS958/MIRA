@@ -6,4 +6,4 @@ music={
  "gulabi aankhen":"https://youtu.be/hgi2MYAFgE8?si=ip5GI0mXY0N0i0H5"
 
 }
-apikey="AIzaSyBQ3unu_yeZpfEYj5hi-QQZTmBWnmUJmVU"
+apikey=""
