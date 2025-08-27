@@ -1,3 +1,4 @@
+![MIRA LOGO](MIRA.png)
 # 🎙️ MIRA – AI Voice Assistant
 
 MIRA is a **Python-based AI voice assistant** that listens to your voice, processes commands, responds intelligently using **Google Gemini AI**, and performs actions like opening websites or playing songs from YouTube.  
